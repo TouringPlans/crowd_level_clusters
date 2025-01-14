@@ -2,7 +2,7 @@
 
 TouringPlans created this repository to share different ideas for how to determine crowd levels at theme parks. It includes data for one attraction: The Amazing Adventures of Spider-Man at Universal Orlando's Islands of Adventure theme park.
 
-[Here's a blog post that explains what we're trying to do.])https://touringplans.com/blog/things-i-think-i-think-how-many-crowd-calendar-levels-are-there-anyway/)
+[Here's a blog post that explains what we're trying to do.](https://touringplans.com/blog/things-i-think-i-think-how-many-crowd-calendar-levels-are-there-anyway/)
 
 The repository includes these sample programs that implement these clustering algorithms:
 
